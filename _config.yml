@@ -78,6 +78,42 @@ content:
   #         Short overview of the project (optional)
   #       description: | # this will include new lines to allow paragraphs
   #         Description about the work on/with the project
+  - title: Papers
+    layout: list
+    content:
+      - layout: top
+        title: Enhancing Image Dehazing with a Multi-DCP Approach with Adaptive Airlight and Gamma Correction
+        sub_title: Applied Sciences, Vol. 14, No. 17, pp. 7978
+        caption: 2024
+        description: |
+          J. Kim, T.-S. Ng, and A. B. J. Teoh  
+          *Enhancing Image Dehazing with a Multi-DCP Approach with Adaptive Airlight and Gamma Correction.*  
+          **Applied Sciences**, 14(17), 7978, 2024.  
+          Publisher: MDPI.
+        link: https://www.mdpi.com/2076-3417/14/17/7978
+
+      - layout: top
+        title: CoreTemp: Coreset Sampled Templates for Multimodal Mobile Biometrics
+        sub_title: Applied Sciences, Vol. 14, No. 12, pp. 5183
+        caption: 2024
+        description: |
+          J. Yoon, J. Park, J. Kim, and A. B. J. Teoh  
+          *CoreTemp: Coreset Sampled Templates for Multimodal Mobile Biometrics.*  
+          **Applied Sciences**, 14(12), 5183, 2024.  
+          Publisher: MDPI.
+        link: https://www.mdpi.com/2076-3417/14/12/5183
+
+      - layout: top
+        title: Learnable Anchor Embedding for Asymmetric Face Recognition
+        sub_title: Electronics (Under Review)
+        caption: 2025
+        description: |
+          J. Kim, T.-S. Ng, and A. B. J. Teoh  
+          *Learnable Anchor Embedding for Asymmetric Face Recognition.*  
+          **Electronics**, MDPI, under review, 2025.
+        link: https://www.mdpi.com/journal/electronics
+
+
   - title: Experience
     layout: list
     content:
