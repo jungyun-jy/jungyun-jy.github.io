@@ -81,7 +81,12 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: left
+      - layout: top
+        title: UNIST
+        sub_title: Researcher
+        caption: 2022
+        link: https://unist-kor.unist.ac.kr/
+      - layout: top
         title: Autonics
         sub_title: Intern
         caption: 2020
