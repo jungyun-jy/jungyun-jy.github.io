@@ -94,7 +94,7 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: left
         title: Yonsei University
         sub_title: PhD in Electronic Engineering
         caption: 2025-Present
@@ -103,7 +103,7 @@ content:
         description: |
           • Specialized in cross-modal and multi-modal task.  
     content:
-      - layout: top-right
+      - layout: left
         title: Yonsei University
         sub_title: MS in Electronic Engineering
         caption: 2023-2025
@@ -113,7 +113,7 @@ content:
           • Specialized in cross model compatibility task.  
           • GPA: 3.96/4.3
     content:
-      - layout: top-right
+      - layout: left
         title: Dong-A University
         sub_title: BS in Electronic Engineering
         caption: 2016 - 2021
