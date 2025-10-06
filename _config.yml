@@ -82,10 +82,20 @@ content:
     layout: list
     content:
       - layout: top
+        title: Institute of Engineering Research, Yonsei University
+        sub_title: Research Engineer
+        caption: 2025
+        link: https://yier.yonsei.ac.kr/yier/index.do
+      - layout: top
         title: Yeungnam University College
         sub_title: Adjunct Lecturer
         caption: 2025
         link: https://eie.ync.ac.kr/eie/Main.do
+      - layout: top
+        title: Superb AI
+        sub_title: Coworker
+        caption: 2025
+        link: https://superb-ai.com/ko
       - layout: top
         title: UNIST
         sub_title: Researcher
