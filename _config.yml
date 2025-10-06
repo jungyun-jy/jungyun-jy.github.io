@@ -50,7 +50,7 @@ googlescholar_username: f7IH2MUAAAAJ
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: /images/profile.jpg (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg (eg. images/profile.jpg)
 about_content: |
   Research Interests  
     - Cross Model Compatibility  
