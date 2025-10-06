@@ -58,26 +58,26 @@ about_content: |
     - Cross-modal
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+  # - title: Projects # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       border: weak  # Value of `weak` will display a weak border below this item. # Any 
+  #                     # other value (or no value) means no border will be displayed
+  #       title: Project name
+  #       link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #       link_text: Link Text
+  #       additional_links:
+  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           icon: fab fa-github
+  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #         - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #           icon: fab fa-github
+  #           url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #       quote: >
+  #         Short overview of the project (optional)
+  #       description: | # this will include new lines to allow paragraphs
+  #         Description about the work on/with the project
   - title: Experience
     layout: list
     content:
@@ -91,6 +91,37 @@ content:
         description: | # this will include new lines to allow paragraphs
           Description of role
   - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Yonsei University
+        sub_title: PhD in Electronic and Electronic Engineering
+        caption: 2025 - Present
+        # quote: >
+        #   Major in Biometric and Deep Learning.
+        description: |
+          • Specialized in cross-modal and multi-modal tasks.  
+
+      - layout: left
+        title: Yonsei University
+        sub_title: MS in Electronic and Electronic Engineering
+        caption: 2023 - 2025
+        # quote: >
+        #   Major in Biometric and Deep Learning.
+        description: |
+          • Specialized in cross-model compatibility tasks.  
+          • GPA: 3.96/4.3
+
+      - layout: left
+        title: Dong-A University
+        sub_title: BS in Electronic Engineering
+        caption: 2016 - 2021
+        # quote: >
+        #   Major in Electrical Systems.
+        description: |
+          • Specialized in signal processing and embedded systems.  
+          • GPA: 4.38/4.5
+  - title: TA
     layout: list
     content:
       - layout: left
@@ -112,15 +143,6 @@ content:
           • Specialized in cross-model compatibility tasks.  
           • GPA: 3.96/4.3
 
-      - layout: left
-        title: Dong-A University
-        sub_title: BS in Electronic Engineering
-        caption: 2016 - 2021
-        quote: >
-          Major in Electrical Systems.
-        description: |
-          • Specialized in signal processing and embedded systems.  
-          • GPA: 4.38/4.5
 
   - title: A Little More About Me
     layout: text
