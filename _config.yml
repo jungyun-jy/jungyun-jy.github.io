@@ -124,15 +124,16 @@ content:
   - title: TA
     layout: list
     content:
-      - layout: left
+      - layout: top
+        title: SIGNAL AND SYSTEMS (EEE2060.05-00)
+        sub_title: Department of Electrical and Electronic Engineering, Yonsei University
+        caption: Fall 2023
+      - layout: top
         title: PROBABILITY AND RANDOM VARIABLES (EEE3410.03-00)
         sub_title: Department of Electrical and Electronic Engineering, Yonsei University
         caption: Spring 2023
 
-      - layout: left
-        title: DIGITAL IMAGE PROCESSING (EEE5320.01-00)
-        sub_title: Department of Electrical and Electronic Engineering, Yonsei University
-        caption: Fall 2023
+
 
 
 
