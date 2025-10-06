@@ -125,6 +125,22 @@ content:
     layout: list
     content:
       - layout: top
+        title: SPCIAL TOPICS IN DEEP LEARNIING (EEE7331.01-00)
+        sub_title: Department of Electrical and Electronic Engineering, Yonsei University
+        caption: Fall 2025
+      - layout: top
+        title: INTRODUCTORY DIGITAL LABS (EEE3313.06-00)
+        sub_title: Department of Electrical and Electronic Engineering, Yonsei University
+        caption: Spring 2025
+      - layout: top
+        title: SPCIAL TOPICS IN DEEP LEARNIING (EEE7331.01-00)
+        sub_title: Department of Electrical and Electronic Engineering, Yonsei University
+        caption: Fall 2024
+      - layout: top
+        title: NEURAL NETWORK (EEE7501.01-00)
+        sub_title: Department of Electrical and Electronic Engineering, Yonsei University
+        caption: Spring 2024
+      - layout: top
         title: SIGNAL AND SYSTEMS (EEE2060.05-00)
         sub_title: Department of Electrical and Electronic Engineering, Yonsei University
         caption: Fall 2023
