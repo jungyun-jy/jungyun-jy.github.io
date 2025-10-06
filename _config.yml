@@ -174,6 +174,16 @@ content:
         description: |
           • Specialized in signal processing and embedded systems.  
           • GPA: 4.38/4.5
+  - title: Invited Talks
+    layout: list
+    content:
+      - layout: top
+        title: "AI Storytelling in the Age of Artificial Intelligence – Understanding Face Recognition and the History of AI"
+        sub_title: "High School–University Connection Program, Wolgye High School"
+        caption: "July 7, 2025 (Mon), 13:10–15:00"
+        description: |
+          Delivered an invited lecture as part of the 2025 Spring High School–University Linkage Program.  
+          Introduced the evolution of artificial intelligence through the lens of face recognition technology and its role in modern AI storytelling.
 
   - title: Instructor of Record
     layout: list
