@@ -82,6 +82,11 @@ content:
     layout: list
     content:
       - layout: top
+        title: Yeungnam University College
+        sub_title: Adjunct Lecturer
+        caption: 2025
+        link: https://eie.ync.ac.kr/eie/Main.do
+      - layout: top
         title: UNIST
         sub_title: Researcher
         caption: 2022
@@ -123,6 +128,15 @@ content:
         description: |
           • Specialized in signal processing and embedded systems.  
           • GPA: 4.38/4.5
+  - title: Instructor of Record
+    layout: list
+    content:
+
+      - layout: top
+        title: INTRODUCTORY DIGITAL LABS (EEE3313.06-00)
+        sub_title: Department of Electrical and Electronic Engineering, Yonsei University
+        caption: Spring 2025
+
   - title: TA
     layout: list
     content:
