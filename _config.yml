@@ -82,14 +82,15 @@ content:
     layout: list
     content:
       - layout: top
-        title: Learnable Anchor Embedding for Asymmetric Face Recognition
-        sub_title: Electronics (Under Review)
-        caption: 2025
+        title: "Learnable Anchor Embedding for Asymmetric Face Recognition"
+        sub_title: "Electronics, Vol. 14, No. 3, pp. 455"
+        caption: "2025"
         description: |
           J. Kim, T.-S. Ng, and A. B. J. Teoh  
           *Learnable Anchor Embedding for Asymmetric Face Recognition.*  
-          **Electronics**, MDPI, under review, 2025.
-        link: https://www.mdpi.com/journal/electronics
+          **Electronics**, 14(3), 455, 2025.  
+          Publisher: MDPI.
+        link: "https://www.mdpi.com/2079-9292/14/3/455"
 
       - layout: top
         title: "CoreTemp: Coreset Sampled Templates for Multimodal Mobile Biometrics"
