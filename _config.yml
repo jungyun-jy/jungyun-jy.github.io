@@ -125,23 +125,16 @@ content:
     layout: list
     content:
       - layout: left
-        title: Yonsei University
-        sub_title: PhD in Electronic and Electronic Engineering
-        caption: 2025 - Present
-        quote: >
-          Major in Biometric and Deep Learning.
-        description: |
-          • Specialized in cross-modal and multi-modal tasks.  
+        title: PROBABILITY AND RANDOM VARIABLES (EEE3410.03-00)
+        sub_title: Department of Electrical and Electronic Engineering, Yonsei University
+        caption: Spring 2023
 
       - layout: left
-        title: Yonsei University
-        sub_title: MS in Electronic and Electronic Engineering
-        caption: 2023 - 2025
-        quote: >
-          Major in Biometric and Deep Learning.
-        description: |
-          • Specialized in cross-model compatibility tasks.  
-          • GPA: 3.96/4.3
+        title: DIGITAL IMAGE PROCESSING (EEE5320.01-00)
+        sub_title: Department of Electrical and Electronic Engineering, Yonsei University
+        caption: Fall 2023
+
+
 
 
   - title: A Little More About Me
