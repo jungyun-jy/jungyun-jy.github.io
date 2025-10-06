@@ -48,9 +48,9 @@ googlescholar_username: f7IH2MUAAAAJ
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
-# About Section
+# About Sectionhttps://github.com/jungyun-jy/jungyun-jy.github.io/blob/52b9edb86ee8acbc9f257f947fbb32bc5b3a20a1/images/profile.jpg
 # about_title: About Me (Use this to override about section title)
-about_profile_image: https://github.com/jungyun-jy/jungyun-jy.github.io/blob/058e1ad0edfb67d118b5e2e4dcda7cbc65361068/images/profile.jpg
+about_profile_image: https://github.com/jungyun-jy/jungyun-jy.github.io/blob/master/images/profile.jpg
 about_content: |
   Research Interests  
     - Cross Model Compatibility  
