@@ -82,7 +82,7 @@ content:
     layout: list
     content:
       - layout: top
-        title: Division of ICT, Semiconductor & Electronic Engineering, Yeungnam University College
+        title: Yeungnam University College
         sub_title: Adjunct Lecturer
         caption: 2025
         link: https://eie.ync.ac.kr/eie/Main.do
@@ -128,7 +128,7 @@ content:
         description: |
           • Specialized in signal processing and embedded systems.  
           • GPA: 4.38/4.5
-          
+
   - title: Instructor of Record
     layout: list
     content:  
