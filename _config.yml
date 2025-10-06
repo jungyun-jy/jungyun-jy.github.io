@@ -227,6 +227,50 @@ content:
         sub_title: Department of Electrical and Electronic Engineering, Yonsei University
         caption: Spring 2023
 
+  - title: Scholarships and Awards
+    layout: list
+    content:
+      - layout: top
+        title: "Teaching Assistant Scholarship"
+        sub_title: "Yonsei University"
+        caption: "Spring & Fall 2023–2025"
+        description: "Received scholarship for exceptional service and performance as a teaching assistant."
+
+      - layout: top
+        title: "BK21 FOUR Project Scholarship"
+        sub_title: "Ministry of Education, Republic of Korea"
+        caption: "Fall 2024"
+        description: "Graduate research scholarship under the Brain Korea 21 FOUR Project for outstanding academic achievement."
+
+      - layout: top
+        title: "Certificate of Commendation"
+        sub_title: "BNK Bank"
+        caption: "2021"
+        description: "Awarded a commendation for excellence by the President of BNK Bank."
+
+      - layout: top
+        title: "Suyeong-gu Scholarship Foundation Award"
+        sub_title: "Suyeong-gu Scholarship Foundation"
+        caption: "Spring 2020"
+        description: "Received scholarship and certificate of merit for outstanding academic performance."
+
+      - layout: top
+        title: "University Innovation Challenge Semester Scholarship"
+        sub_title: "Yonsei University"
+        caption: "Spring 2020"
+        description: "Recognized for participation in the university’s academic innovation program."
+
+      - layout: top
+        title: "National Science and Engineering Scholarship"
+        sub_title: "Awarded by the Korean Government"
+        caption: "Spring & Fall 2020"
+        description: "Scholarship for academic excellence in science and engineering fields."
+
+      - layout: top
+        title: "National Local Talent Scholarship"
+        sub_title: "Awarded by the Korean Government"
+        caption: "Spring & Fall 2016, 2019"
+        description: "Merit-based national scholarship supporting outstanding local talents."
 
 
 
