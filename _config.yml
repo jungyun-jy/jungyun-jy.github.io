@@ -52,11 +52,19 @@ googlescholar_username: f7IH2MUAAAAJ
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: |
-  Research Interests  
-    - Cross Model Compatibility  
-    - Multi-modal  
-    - Cross-modal
+  I am currently pursuing a Ph.D. in the **Department of Electrical and Electronic Engineering at Yonsei University**,  
+  where I conduct research in the [**Multimedia Security Laboratory**](https://sites.google.com/site/multimediasecuritylab/)  
+  under the supervision of **Prof. Andrew Beng Jin Teoh**.  
 
+  My research focuses on **cross-modal face recognition**, **cross-modal**
+  and **multi-modal**.  
+
+  **Research Interests**
+    - Cross-Model Compatibility  
+    - Multi-modal and Cross-modal Learning  
+    - Face & Periocular Biometrics  
+    - Knowledge Distillation and Representation Alignment  
+    - Probabilistic and Bayesian Deep Learning  
 content:
   # - title: Projects # Title for the section
   #   layout: list # Type of content section (list/text)
