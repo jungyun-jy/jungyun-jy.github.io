@@ -156,7 +156,7 @@ content:
     content:
       - layout: left
         title: Yonsei University
-        sub_title: PhD in Electric and Electronic Engineering
+        sub_title: PhD in Electrical and Electronic Engineering
         caption: 2025 - Present
         # quote: >
         #   Major in Biometric and Deep Learning.
@@ -165,7 +165,7 @@ content:
 
       - layout: left
         title: Yonsei University
-        sub_title: MS in Electric and Electronic Engineering
+        sub_title: MS in Electrical and Electronic Engineering
         caption: 2023 - 2025
         # quote: >
         #   Major in Biometric and Deep Learning.
