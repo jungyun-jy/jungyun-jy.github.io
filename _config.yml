@@ -90,6 +90,16 @@ content:
     layout: list
     content:
       - layout: top
+        title: "A Prototype-Based Framework for Open-Set Heterogeneous Federated Face Recognition"
+        sub_title: "Expert Systems with Applications"
+        caption: "2025"
+        description: |
+          T. Kim, J. Kim, and A. B. J. Teoh  
+          *A Prototype-Based Framework for Open-Set Heterogeneous Federated Face Recognition.*  
+          **Expert Systems with Applications**, 2025.  
+          DOI: [10.1016/j.eswa.2025.130020](https://doi.org/10.1016/j.eswa.2025.130020)
+        link: "https://doi.org/10.1016/j.eswa.2025.130020"
+      - layout: top
         title: "Learnable Anchor Embedding for Asymmetric Face Recognition"
         sub_title: "Electronics, Vol. 14, No. 3, pp. 455"
         caption: "2025"
