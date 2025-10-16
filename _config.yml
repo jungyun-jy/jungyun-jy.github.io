@@ -107,8 +107,9 @@ content:
           J. Kim, T.-S. Ng, and A. B. J. Teoh  
           *Learnable Anchor Embedding for Asymmetric Face Recognition.*  
           **Electronics**, 14(3), 455, 2025.  
+          DOI: [10.3390/electronics14030455](https://doi.org/10.3390/electronics14030455)
          # Publisher: MDPI.
-        link: "https://www.mdpi.com/2079-9292/14/3/455"
+        # link: "https://www.mdpi.com/2079-9292/14/3/455"
       - layout: top
         title: Enhancing Image Dehazing with a Multi-DCP Approach with Adaptive Airlight and Gamma Correction
         sub_title: Applied Sciences, Vol. 14, No. 17, pp. 7978
@@ -117,8 +118,9 @@ content:
           J. Kim, T.-S. Ng, and A. B. J. Teoh  
           *Enhancing Image Dehazing with a Multi-DCP Approach with Adaptive Airlight and Gamma Correction.*  
           **Applied Sciences**, 14(17), 7978, 2024.  
+          DOI: [10.3390/app14177978](https://doi.org/10.3390/app14177978)
         #  Publisher: MDPI.
-        link: https://www.mdpi.com/2076-3417/14/17/7978
+        # link: https://www.mdpi.com/2076-3417/14/17/7978
       - layout: top
         title: "CoreTemp: Coreset Sampled Templates for Multimodal Mobile Biometrics"
         sub_title: Applied Sciences, Vol. 14, No. 12, pp. 5183
@@ -127,8 +129,9 @@ content:
           J. Yoon, J. Park, J. Kim, and A. B. J. Teoh  
           *CoreTemp: Coreset Sampled Templates for Multimodal Mobile Biometrics.*  
           **Applied Sciences**, 14(12), 5183, 2024.  
+          DOI: [10.3390/app14125183](https://doi.org/10.3390/app14125183)
         #  Publisher: MDPI.
-        link: https://www.mdpi.com/2076-3417/14/12/5183
+        # link: https://www.mdpi.com/2076-3417/14/12/5183
 
 
 
