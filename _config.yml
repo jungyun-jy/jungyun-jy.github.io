@@ -150,14 +150,18 @@ content:
     layout: list
     content:
       - layout: top
+        title: PLACAR Co., Ltd.
+        sub_title: Programmer
+        caption: 2025 - Present
+      - layout: top
         title: Institute of Engineering Research, Yonsei University
         sub_title: Research Engineer
-        caption: 2025
+        caption: 2025 - 2026
         link: https://yier.yonsei.ac.kr/yier/index.do
       - layout: top
         title: Yeungnam University College
         sub_title: Adjunct Lecturer
-        caption: 2025
+        caption: 2025 - 2026
         link: https://eie.ync.ac.kr/eie/Main.do
       - layout: top
         title: Superb AI
