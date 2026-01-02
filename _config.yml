@@ -199,7 +199,6 @@ content:
         #   Major in Biometric and Deep Learning.
         description: |
           • Specialized in cross-model compatibility tasks.  
-          • GPA: 3.96/4.3
 
       - layout: left
         title: Dong-A University
@@ -209,7 +208,7 @@ content:
         #   Major in Electrical Systems.
         description: |
           • Specialized in signal processing and embedded systems.  
-          • GPA: 4.38/4.5
+          
   - title: Invited Talks
     layout: list
     content:
