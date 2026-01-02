@@ -213,6 +213,16 @@ content:
     layout: list
     content:
       - layout: top
+        title: "How Computers See the World"
+        sub_title: "2025 Professional Retiree Social Contribution Support Program"
+        caption: "November 14, 2025 (Fri), 09:00–18:00"
+        description: |
+          Delivered a full-day invited lecture as part of the 2025 Professional Retiree Social Contribution Support Program.  
+          The lecture focused on how computers perceive and interpret the visual world, covering the fundamental principles 
+          of computer vision, face recognition, and modern artificial intelligence systems, with an emphasis on real-world 
+          applications and societal impact.
+
+      - layout: top
         title: "AI Storytelling in the Age of Artificial Intelligence – Understanding Face Recognition and the History of AI"
         sub_title: "High School–University Connection Program, Wolgye High School"
         caption: "July 7, 2025 (Mon), 13:10–15:00"
