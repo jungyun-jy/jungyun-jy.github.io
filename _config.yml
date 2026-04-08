@@ -179,6 +179,27 @@ content:
         caption: 2020
         link: https://www.autonics.com/kr/main
 
+  - title: Projects
+    layout: list
+    content:
+      - layout: top
+        title: "AI Outbound Call System with Real-Time User Intent Sensing"
+        sub_title: "PLACAR Co., Ltd."
+        caption: "2025 - Present"
+        description: |
+          Developed an AI-powered outbound calling system that automatically initiates calls to customers
+          and detects user intent in real time through speech analysis.
+          - Designed and implemented a **real-time intent classification pipeline** that senses user utterance intent
+            (e.g., interest, rejection, callback request, inquiry) during live outbound calls.
+          - Integrated **STT (Speech-to-Text)** and **NLU (Natural Language Understanding)** modules
+            for robust spoken language understanding in noisy telephony environments.
+          - Built a **dynamic dialogue management engine** that adapts call scripts based on detected user intent,
+            enabling context-aware and natural conversation flow.
+          - Developed **sentiment and engagement scoring** to assess customer receptiveness in real time,
+            allowing the system to escalate to human agents when appropriate.
+          - Engineered the full pipeline from **call initiation → speech capture → intent sensing → response generation → call wrap-up logging**.
+
+
   - title: Education
     layout: list
     content:
