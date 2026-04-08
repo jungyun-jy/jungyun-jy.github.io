@@ -198,7 +198,26 @@ content:
           - Developed **sentiment and engagement scoring** to assess customer receptiveness in real time,
             allowing the system to escalate to human agents when appropriate.
           - Engineered the full pipeline from **call initiation → speech capture → intent sensing → response generation → call wrap-up logging**.
-
+      - layout: top
+        title: "AI Voice Cloning — Zero-Shot / Few-Shot Speaker Voice Cloning System"
+        sub_title: "PLACAR Co., Ltd."
+        caption: "2025 - Present"
+        description: |
+          Developed an AI voice cloning system that reproduces a target speaker's timbre, intonation,
+          and speaking style with no fine-tuning or with only a minimal number of speech samples,
+          leveraging pre-trained generative models.
+          - **Zero-shot voice cloning**: Implemented a pipeline that instantly clones a speaker's voice
+            from a single 3–10 second reference utterance without any fine-tuning.
+          - **Few-shot voice cloning**: Further improved cloning quality through lightweight speaker adaptation
+            using a few minutes of speech samples.
+          - Designed a **speaker encoder architecture** for extracting speaker embeddings
+            that generalize to unseen speakers in open-set scenarios.
+          - Applied **prosody transfer**, **pitch/duration modeling**, and **in-context learning-based
+            style conditioning** to enhance naturalness of synthesized speech.
+          - Built an automated evaluation module for quantitative assessment of
+            **speaker similarity** and **naturalness (MOS)** of cloned voices.
+          - Integrated with the AI outbound call system and deployed as a
+            **personalized AI voice agent** that responds in a specific agent's voice in production.
 
   - title: Education
     layout: list
