@@ -253,6 +253,16 @@ content:
     layout: list
     content:
       - layout: top
+        title: "Throw Voice: Current Status of Voice Cloning-based AICC Solution Development"
+        sub_title: "2026 KIN Networking Workshop, Korea Innovation Network (KIN)"
+        caption: "June 12, 2026 (Fri), 16:10–16:30 · Sungkyunkwan University, International Hall 9B320"
+        description: |
+          Delivered an invited talk at the 2026 KIN (Korea Innovation Network) Networking Workshop, 
+          a gathering of researchers, entrepreneurs, and colleagues. Presented the current status of 
+          "Throw Voice," an AI Contact Center (AICC) solution built on voice-cloning technology, 
+          covering the underlying speech-synthesis approach, development progress, and considerations 
+          for real-world deployment.
+      - layout: top
         title: "How Computers See the World"
         sub_title: "2025 Professional Retiree Social Contribution Support Program"
         caption: "November 14, 2025 (Fri), 09:00–18:00"
